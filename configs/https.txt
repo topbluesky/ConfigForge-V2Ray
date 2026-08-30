@@ -1,10 +1,4 @@
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20537511
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20614353
-https://223.5.5.5:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20696996
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372550
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20961953
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20771545
-https://223.5.5.5:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170363
-https://223.6.6.6:443/dns-query&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20319571
-https://149.154.167.99:443/An0nymou3Bot#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20705816
-https://140.82.112.3:443/4n0nymou3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20733374
+https://223.5.5.5:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20117306
+https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20259089
+https://149.154.167.99:443/An0nymou3Bot#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20331462
+https://140.82.112.3:443/4n0nymou3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351680
